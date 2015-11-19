@@ -6,6 +6,6 @@
 </head>
 <body>
 	[WEBffff](https://huangpancolor.github.io/WEB/index.html)
-	[我的地盘记得听我的](https://huangpancolor.github/WEB/php.html)
+	[我的地盘记得听我的](https://huangpancolor.github.io/WEB/php.html)
 </body>
 </html>
